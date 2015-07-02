@@ -1,0 +1,9 @@
+{
+  "name": "omg-a-unicorn",
+  "version": "86.75.309",
+  "author": "Qix (https://github.com/qix-)",
+  "preferGlobal": true,
+  "dependencies": {
+    "player": "^0.5.0"
+  }
+}
